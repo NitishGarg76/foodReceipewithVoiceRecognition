@@ -5,7 +5,7 @@
 ## Setup For Android
 
 1. Clone the repository:
-   git clone <repository_url>
+   git clone https://github.com/NitishGarg76/foodReceipewithVoiceRecognition.git
    cd ChatbotApp
 2. npm install
 3. Start Metro - npm start
